@@ -4,7 +4,7 @@ Today, we will present a project in which we analyze user behavior in the gaming
 
 Our company, **Monteglo Studios**, is an Estonia-based gaming and animation studio with over 3.5 million players across 24 countries. To date, it has released 221 games across 28 genres and 25 platforms. The management team consists of Azerbaijani members. This research was conducted with a sample of 100 players, selected through mathematical-statistical sampling – half male and half female – over the past 8 years.
 
-## Page 1
+## Distribution of players by gender and genre
 Here, we will look at graphs showing the number of comments made by male and female users, the number of players per genre by gender, and the total number of active players per genre.
 
 ### 1. Number of Comments by Gender
@@ -18,7 +18,7 @@ This graph shows that RPG games attract more players than other genres. The **Sh
 
 
 
-## Page 2
+## Spending and player demographics
 Here, we look at graphs comparing total spending by gender, average spending per game, total revenue by genre, and the distribution of players by age group.
 
 ### 1. Total Spending by Gender
@@ -35,7 +35,7 @@ This sector graph shows the age distribution of players. 73% of players are betw
 
 
 
-## Page 3
+## Annual trends and development of game genres:
 On this page, we examine graphs showing revenue and expense dynamics by year, as well as the number of game genres produced over the years.
 
 ### 1. Revenue and Expense Dynamics by Year
@@ -54,7 +54,7 @@ This chart shows the distribution of game genres produced by the company between
 In 2021, we observe that more games were produced within a single genre, specifically the RPG (Role-Playing Game) genre. To determine if this really influenced the revenue, we refer to the "Revenue by Genre" chart from the previous page, where we see that the RPG genre generates significantly more revenue compared to other genres.
 Based on this conclusion, it is recommended for the company’s marketing and development teams to gradually increase the production of RPG games and focus their PR and advertising strategies on this genre.
 
-## Page 4:
+## Countries with the majority of customers:
 On this page, we will look at the **Countries with the Most Customers** through a map.
 
 ### Countries with the Most Customers
@@ -64,7 +64,7 @@ In some countries, there is no visible player activity at all. For example, coun
 We need to investigate the reasons behind the lack of players in these regions. For instance, it is not difficult to guess why there are no players in Russia and Ukraine. In countries like Italy and Germany, the high cost of setting up game servers is one of the primary reasons for the lack of players. These are countries where gaming culture is widespread, and thus, they offer a large customer and player potential to competitors in the market.
 To address these issues, our International Relations and Marketing teams are working harder, and we are currently focusing on expanding in the European market. Of course, steps are also being taken to maintain our existing customer portfolio. For instance, during the carnival and festivals in Brazil, our company provides special gifts and discounts to our players. This is an important indicator for directing marketing strategies toward these regions.
 
-## Page 5:
+## Player play behaviors and geographical distribution:
 On this page, we will look at charts showing **Average Game Play Duration by Gender**, **Geographic Distribution of Players Based on Average Game Play Duration**, and **Total Play Duration by Gender**.
 
 ### 1. Average Game Play Duration by Gender
@@ -94,7 +94,7 @@ This data shows that men spend more time playing games compared to women. Howeve
 - Special measures and marketing strategies can be considered to further increase the interest of female players.
 
 
-## PAGE 6:
+## In-game communication statistics:
 Here, we will look at the analysis of user communication behaviors during game time, specifically: **Game Time with Opposite Gender Conversation Duration**, **Number of Words Spoken to the Opposite Gender During Game Time**, **Game Time with Same-Gender Conversation Duration**, and **Number of Words Spoken to the Same Gender During Game Time**.
 
 ### Analysis of Users' Communication Behaviors During Game Time:
@@ -120,7 +120,7 @@ This research investigates the communication behaviors of users – female and m
    - Male players spoke 90 million words to other men.
    This shows that women engage in more communication and deeper conversations with other women during game time.
 
-## PAGE 7:
+## Outside game communication and conversation dynamics:
 Here, we will compare the users' social behaviors outside of the game with their in-game behaviors and analyze the results:
 
 1. **Player's Time Spent Communicating with the Opposite Gender Outside the Game (Hours)**
@@ -150,7 +150,7 @@ Here, we will compare the users' social behaviors outside of the game with their
 
 In this presentation, we explored user preferences, spending, and market trend changes. These analyses reveal that tracking market trends and building strategies aligned with user preferences are key factors for success in the gaming industry.
 
-### Additional Recommendations:
+### Conclusion and Recommendations:
 
 - Focus more on **RPG games**.
 
